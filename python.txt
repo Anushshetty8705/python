@@ -1,0 +1,20 @@
+s=set() ===  empty set
+s1.union(s2) ===  union of two sets creating a new set
+s1.update(s2) === values of s2 are storewd in s1
+s1.intersection(s2) === intersection of two sets
+s1.intersection_update(s2)  === intersected values stored in s1 s2 remain unchanged
+s1.symmetric_difference(s2) === to get non common valus
+s1.difference(s2)  ====  only present in s1 
+s1.isdisjoint(s2) ===  no elements are common
+s1.issupperset(s2)  === to chck s1 is parent of s2
+s1.issubset(s2)  === to check subset
+s1.add(values) === to add  set
+s1.remove(val) ==== to remove and raise error if not present
+s1.discard((val) === to remove and wont raise Error)
+s1.pop() ===random element 
+del s == to delet set
+s1.clear()  === to clear the  values
+python3 -m venv virtualname ==== to create virtual environment
+source  vname/bin/activate === to activate virtual environment
+deactivate === to deactivate virtual environment
+raise === to raise error by user

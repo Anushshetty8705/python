@@ -1,0 +1,17 @@
+touch name === to create new file
+pip freeze === give all installed packages
+pip freeze > name.txt === to get installed packages in file
+pip install -r name.txt === to install file in other computer
+from module import functions  === to isntall particular function
+dir(package) ===   to get name of all function in that package
+__name__ === name of file from outside package
+with open("file name","mode ") as f: === automatic closing of file
+f.seek(10) ===== reads the file contents after 10 letters or bytes
+f.tell()   ===   tell from which byte or letter we are reaing the file contents 
+f.truncate(siz of characters(3)) ==== to give size of the file (only 3letters are written in file) 
+function name = lambda variable: exprison to return
+sum =lambda x:x+2 
+new list = list(function ,orignal list) === hale list du values tagond fucntiopn ge haki hosa list ali store madute
+new list =list(filter(filter_function ,original list) === hale list du values ,function parkara hosa list ali store maduthe)
+sum =reduce(function,list) ==== first two list items addd madi last ge value koduthe
+import functools === reduce() function ge   

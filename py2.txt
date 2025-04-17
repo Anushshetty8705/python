@@ -1,0 +1,21 @@
+pip install ======  to instal modules
+pip install namemodule==ver  ==== to instal particular version
+pass  =========  to skip the body of the fucntion
+title() =======  to captilazie every first letter in string
+captalise()  ====  to  coapitalise only startig char in string
+swap()   ====  to convert alternate case
+print(4,5,"jik",sep="~",end="007")
+list.sort(reverse=true)  === to print in deciding order
+list.append()
+list.index(item)=== to get index of particular item
+in  and not in ==== to check wheater its there or not
+list.count(item) ===== to count numb of repitstion of item
+list.insert(index,item) === to insert item at particular index
+list1.extend(list) === to join two list
+tuple(list)  ===  to convert list to tuple vice versa
+time. strftime("%H:%M:%S")   ===== to get time   (import time)
+string.format(values)   === to give string in place {} in a String
+f"    string         "   ==== fstring
+print(functionname.__doc__) === to print doc string
+docstring should be written next of function name and written in ''' '''
+ import this ==== zen of python
